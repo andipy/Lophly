@@ -1,0 +1,156 @@
+/***********************
+GENERAL
+***********************/
+
+body {
+    font-family: 'Nunito', sans-serif;
+    height: 100%;
+}
+
+.content {
+    padding: 6rem 0;
+}
+
+.btn-custom {
+    width: 100%;
+}
+
+p {
+    font-size: 1.25rem;
+    line-height: 2.5rem;
+}
+
+.yellow {
+    background: #ffe355; /*Il giallo più scuro è: #ffd500*/
+}
+
+.pink {
+    background: #f5d9df;
+}
+
+.light-blue {
+    background: #c1ebf7;
+}
+
+.p-custom {
+    padding: 10rem 0;
+}
+
+.p-md-custom {
+    padding: 8rem 0 4rem 0;
+}
+
+.m-md-custom {
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+}
+
+.text-logo-custom {
+    font-family: 'Vibur', cursive;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+/***********************
+NAVBAR
+***********************/
+
+#logoImg {
+    width: 60px;
+}
+
+#logoWrite {
+    font-family: 'Vibur', cursive;
+    font-size: 2.5rem;
+}
+
+#mainNavbar.scrolled {
+    background-color: rgba(193 , 235 , 247 , 0.95); /*in esadecimale è: #c1ebf7*/
+    box-shadow: 0 0 10px rgba(0 , 0 , 0 , 0.5);
+    transition: all 500ms;
+}
+
+/***********************
+FIRST SECTION
+***********************/
+
+h1 {
+     font-size: 3rem;
+}
+
+h4 {
+    line-height: 2rem;
+}
+
+#firstSection h2 {
+    margin-top: 3rem;
+}
+
+/***********************
+SECOND SECTION
+***********************/
+
+
+
+/***********************
+THIRD SECTION
+***********************/
+
+
+
+/***********************
+FOURTH SECTION
+***********************/
+
+
+
+/***********************
+FIFTH SECTION
+***********************/
+
+#fifthSection h2 {
+    padding-bottom: 2rem;
+}
+
+/***********************
+SPLIT SECTION
+***********************/
+
+.total-height {
+    height: 100vh;
+}
+
+/***********************
+FOOTER
+***********************/
+
+/***********************
+LOG IN/SIGN UP PAGE
+***********************/
+
+#loginSectionOne {
+    margin-top: 2rem;
+}
+
+#loginSectionOne hr,p {
+    margin: 1.5rem 0;
+}
+
+.btn-char-custom {
+    font-size: 0.85rem;
+}
+
+.btn-height-custom {
+    height: 3.2rem;
+}
+
+.mainInP {
+    font-size: 2rem;
+}
+
+.hiddenP {
+    color: #a0a0a0;
+    font-size: 0.95rem;
+}
